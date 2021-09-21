@@ -9,9 +9,19 @@
 			<string>// In Swift, Variables are quite simple to create. It's done so just by using the "var" keyword.
 
 var welcome = "Hello, World!"
+
+var name = "George"
+
+var properWelcome = """
+    This is a proper welcome :
+    Hello \(name), congratulations for coding in Swift!
+    This is the start of a wonderful journey.
+    """
+
+print(properWelcome)
 </string>
 			<key>ModifiedRange</key>
-			<string>{1, 128}</string>
+			<string>{1, 337}</string>
 			<key>OriginalContent</key>
 			<string></string>
 			<key>OriginalRange</key>
