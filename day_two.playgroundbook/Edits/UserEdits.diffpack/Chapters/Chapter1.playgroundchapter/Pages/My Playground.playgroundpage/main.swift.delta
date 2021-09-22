@@ -23,10 +23,17 @@ print(name.suffix)
     
     // ** REMEMBER **
 
-    // Arrays keep the order and can have duplicate data. Sets are unique and cannot have duplicates and are unordered. Tuples have fixed values of fixed types inside
+    // Arrays keep the order and can have duplicate data. Sets are unique and cannot have duplicates and are unordered. Tuples have fixed values of fixed types inside of them.
+
+let artists = [
+    "Picasso" : "painter",
+    "Isamu Noguchi" : "sculptor",
+    "Carrie Mae Weems" : "photographer",
+    ""
+]
 </string>
 			<key>ModifiedRange</key>
-			<string>{1, 654}</string>
+			<string>{1, 791}</string>
 			<key>OriginalContent</key>
 			<string></string>
 			<key>OriginalRange</key>
