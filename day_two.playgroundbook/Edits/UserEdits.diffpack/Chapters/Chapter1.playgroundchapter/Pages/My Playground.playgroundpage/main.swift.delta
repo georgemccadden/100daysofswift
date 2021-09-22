@@ -10,9 +10,11 @@
 let friends = ["Kahlia", "Claire", "Jordan", "Katie"]
 
 let family = Set(["Debbie", "Brittany", "Camille", "Andre"])
+
+// Sets in Swift are really useful for searching if something exists because each object is unique.
 </string>
 			<key>ModifiedRange</key>
-			<string>{1, 156}</string>
+			<string>{1, 257}</string>
 			<key>OriginalContent</key>
 			<string></string>
 			<key>OriginalRange</key>
