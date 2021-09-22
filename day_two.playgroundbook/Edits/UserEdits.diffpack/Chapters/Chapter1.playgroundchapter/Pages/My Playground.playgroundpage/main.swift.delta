@@ -29,11 +29,13 @@ let artists = [
     "Picasso" : "painter",
     "Isamu Noguchi" : "sculptor",
     "Carrie Mae Weems" : "photographer",
-    ""
+    "Hayao Miyazaki" : "animator"
 ]
+
+// Dictionaries are most like Javascript objects because of their key/value pairs.
 </string>
 			<key>ModifiedRange</key>
-			<string>{1, 791}</string>
+			<string>{1, 902}</string>
 			<key>OriginalContent</key>
 			<string></string>
 			<key>OriginalRange</key>
