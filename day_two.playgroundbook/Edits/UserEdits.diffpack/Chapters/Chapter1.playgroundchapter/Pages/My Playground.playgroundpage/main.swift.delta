@@ -12,9 +12,17 @@ let friends = ["Kahlia", "Claire", "Jordan", "Katie"]
 let family = Set(["Debbie", "Brittany", "Camille", "Andre"])
 
 // Sets in Swift are really useful for searching if something exists because each object is unique.
+
+var name = (first: "George", last: "McCadden", suffix: "III")
+
+print(name.first) 
+print(name.last) 
+print(name.suffix)
+
+    // Tuples remind me a bit of Javascript objects because of the dot notation.
 </string>
 			<key>ModifiedRange</key>
-			<string>{1, 257}</string>
+			<string>{1, 459}</string>
 			<key>OriginalContent</key>
 			<string></string>
 			<key>OriginalRange</key>
