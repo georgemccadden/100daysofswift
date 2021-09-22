@@ -32,10 +32,12 @@ let artists = [
     "Hayao Miyazaki" : "animator"
 ]
 
+print(artists["Beyoncé", default: "GOAT"])
+
 // Dictionaries are most like Javascript objects because of their key/value pairs.
 </string>
 			<key>ModifiedRange</key>
-			<string>{1, 902}</string>
+			<string>{1, 946}</string>
 			<key>OriginalContent</key>
 			<string></string>
 			<key>OriginalRange</key>
