@@ -20,9 +20,13 @@ print(name.last)
 print(name.suffix)
 
     // Tuples remind me a bit of Javascript objects because of the dot notation.
+    
+    // ** REMEMBER **
+
+    // Arrays keep the order and can have duplicate data. Sets are unique and cannot have duplicates and are unordered. Tuples have fixed values of fixed types inside
 </string>
 			<key>ModifiedRange</key>
-			<string>{1, 459}</string>
+			<string>{1, 654}</string>
 			<key>OriginalContent</key>
 			<string></string>
 			<key>OriginalRange</key>
